@@ -19,7 +19,7 @@
 
 #Create subject list and HV list
 scripts_dir="/Volumes/Shares/NEU/Scripts_and_Parameters/scripts/PVS_scripts"
-python ${scripts_dir}/do_convert_names.py
+python ${scripts_dir}/key_conversion.py
 
 
 #Run all subjects through PVS processing
